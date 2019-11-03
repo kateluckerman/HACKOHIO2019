@@ -1,8 +1,5 @@
-﻿name,parent,value
-Origin,,
-Scott,Dining,12
-Lincoln,Housing,23
-Morrill,Housing,11
-grp4,Origin,40
-grp5,Origin,30
-grp6,Origin,25
+﻿name,group,value
+mister_a, boss1, 28
+mister_b, boss2, 12
+mister_c, boss1, 12
+mister_d, boss3, 11
