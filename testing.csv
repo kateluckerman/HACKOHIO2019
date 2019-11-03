@@ -1,5 +1,4 @@
-﻿name,group,value
-mister_a, boss1, 28
-mister_b, boss2, 12
-mister_c, boss1, 12
-mister_d, boss3, 11
+﻿name,parent,value
+Scott, Dining, 34
+Morrill, Housing, 32
+Lincoln, Housing, 12
