@@ -1,4 +1,8 @@
 ﻿name,parent,value
-Scott, Dining, 34
-Morrill, Housing, 32
-Lincoln, Housing, 12
+Origin,,
+Scott,Origin,12
+Lincoln,Origin,23
+Morrill,Origin,11
+grp4,Origin,40
+grp5,Origin,30
+grp6,Origin,25
