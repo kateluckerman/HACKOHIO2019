@@ -1,66 +1,66 @@
 HackathonConfig
-,Building,Category,Value
-Chilled Water ,Raney House,Student Housing,125474
-Chilled Water ,Bowen House,Student Housing,95448
-Chilled Water ,Busch House,Student Housing,109926
-Chilled Water ,Curl Hall,Student Housing,25653
-Chilled Water ,Blackburn House,Student Housing,132162
-Chilled Water ,Scott House,Student Housing,169311
-Chilled Water ,North Recreation Center,Student Activity,28834
-Chilled Water ,Nosker House,Student Housing,106857
-Chilled Water ,"Smith, Thomas, Electrical Substation",Facilities,23886
-Chilled Water ,Veterinary Medicine Academic,Academic,113459
-Chilled Water ,Psychology Building,Academic,132733
-Chilled Water ,"Bolz, Harold A, Hall",Academic,82179
-Chilled Water ,McCracken Power Plant,Facilities/Administration,110142
-Chilled Water ,Mathematics Tower,Academic,61621
-Chilled Water ,Physics Research Building,Academic/Research,238732
-Chilled Water ,"Enarson, Harold L, Classroom Building",Academic,88768
-Chilled Water ,Sisson Hall,Academic/Research,55501
-Chilled Water ,Park-Stradley Hall,Student Housing,271039
-Chilled Water ,Smith-Steeb Hall,Student Housing,262198
-Chilled Water ,Townshend Hall,Academic,64406
-Chilled Water ,"Doan, Charles Austin, Hall",Patient Care,673130
-Chilled Water ,"Dreese Laboratories, Erwin E",Academic,185430
-Chilled Water ,"Baker, David F, Systems Engineering Building (The)",Academic,114930
-Chilled Water ,"Galbreath, Daniel M, Equine Center",Veterinary,40822
-Chilled Water ,"Bricker, John W, Hall",Administration,74140
-Chilled Water ,Torres House,Student Housing,127073
-Chilled Water ,"Bolz, Harold A, Hall",Academic,82179
-Chilled Water ,Newman and Wolfrom Laboratory of Chemistry,Lab,62058
-Chilled Water ,"Scott, Peter L and Clara M, Laboratory",Academic/Research,262375
-Chilled Water ,"Evans, William Lloyd, Laboratory",OSUWMC,117574
-Chilled Water ,Student Academic Services Building,Office,137250
-Chilled Water ,"Knowlton, Austin E, Hall",Academic,174422
-Chilled Water ,"Campbell, Elizabeth Owens, Hall",Academic,115368
-Chilled Water ,"Goss, Leonard W, Laboratory",Academic/Research,67943
-Chilled Water ,Mathematics Building,Academic,28893
-Chilled Water ,Physical Activity and Education Services - PAES,Academic,163899
-Chilled Water ,Recreation and Physical Activity Center,Student Housing,279848
-Chilled Water ,Chemical and Biomolecular Engineering and Chemistry Building,Academic/Research,236537
-Chilled Water ,"Fisher, Max M, Hall",Administration,132056
-Chilled Water ,Schoenbaum Undergrad Program Bldg,Academic/Administration,62748
-Chilled Water ,"Mason, Raymond E, Hall",Academic,68150
-Chilled Water ,Blackwell Inn,Hotel,127992
-Chilled Water ,Caldwell Laboratory,Academic/Research,100348
-Chilled Water ,Hitchcock Hall,Academic,118612
-Chilled Water ,Biological Science Building,Academic/Research,180694
-Chilled Water ,"Cunz, Dieter, Hall",Academic,68100
-Chilled Water ,Veterinary Medical Center,Veterinary,222496
-Chilled Water ,"Dulles, Foster Rhea, Hall",Academic,41284
-Chilled Water ,Independence Hall,Academic,15891
-Chilled Water ,University Hall,Academic,77845
-Chilled Water ,Ross Heart Hospital,Patient Care,306801
-Chilled Water ,"Rhodes, James A, Hall",Patient Care,507803
-Chilled Water ,"Celeste, Richard F, Laboratory of Chemistry",Lab,110310
-Chilled Water ,Brain and Spine Hospital,Patient Care,258797
-Chilled Water ,The Ohio State University Comprehensive Cancer Center - Arthur G. James Ca*,Patient Care/Research,1186252
-Chilled Water ,"Chilled Water Plant, East Regional",Facilities,34246
-Chilled Water ,"Chiller Plant, South Campus Central",Facilities,83056
-Chilled Water ,"Eighteenth Ave, 209 W",Academic,25034
-Chilled Water ,Lazenby Hall,Academic,67323
-Chilled Water ,Journalism Building,Academic,84561
-Chilled Water ,Eighteenth Avenue Library,Library,99181
-Chilled Water ,"Thompson, William Oxley, Memorial Library",Library,300459
-Chilled Water ,McPherson Chemical Laboratory,Academic/Research,117599
-Chilled Water ,"Smith, Alpheus, Laboratory",Academic/Research,218839
+Building,Category,Value
+Raney House,Student Housing,125474
+Bowen House,Student Housing,95448
+Busch House,Student Housing,109926
+Curl Hall,Student Housing,25653
+Blackburn House,Student Housing,132162
+Scott House,Student Housing,169311
+North Recreation Center,Student Activity,28834
+Nosker House,Student Housing,106857
+"Smith, Thomas, Electrical Substation",Facilities,23886
+Veterinary Medicine Academic,Academic,113459
+Psychology Building,Academic,132733
+"Bolz, Harold A, Hall",Academic,82179
+McCracken Power Plant,Facilities/Administration,110142
+Mathematics Tower,Academic,61621
+Physics Research Building,Academic/Research,238732
+"Enarson, Harold L, Classroom Building",Academic,88768
+Sisson Hall,Academic/Research,55501
+Park-Stradley Hall,Student Housing,271039
+Smith-Steeb Hall,Student Housing,262198
+Townshend Hall,Academic,64406
+"Doan, Charles Austin, Hall",Patient Care,673130
+"Dreese Laboratories, Erwin E",Academic,185430
+"Baker, David F, Systems Engineering Building (The)",Academic,114930
+"Galbreath, Daniel M, Equine Center",Veterinary,40822
+"Bricker, John W, Hall",Administration,74140
+Torres House,Student Housing,127073
+"Bolz, Harold A, Hall",Academic,82179
+Newman and Wolfrom Laboratory of Chemistry,Lab,62058
+"Scott, Peter L and Clara M, Laboratory",Academic/Research,262375
+"Evans, William Lloyd, Laboratory",OSUWMC,117574
+Student Academic Services Building,Office,137250
+"Knowlton, Austin E, Hall",Academic,174422
+"Campbell, Elizabeth Owens, Hall",Academic,115368
+"Goss, Leonard W, Laboratory",Academic/Research,67943
+Mathematics Building,Academic,28893
+Physical Activity and Education Services - PAES,Academic,163899
+Recreation and Physical Activity Center,Student Housing,279848
+Chemical and Biomolecular Engineering and Chemistry Building,Academic/Research,236537
+"Fisher, Max M, Hall",Administration,132056
+Schoenbaum Undergrad Program Bldg,Academic/Administration,62748
+"Mason, Raymond E, Hall",Academic,68150
+Blackwell Inn,Hotel,127992
+Caldwell Laboratory,Academic/Research,100348
+Hitchcock Hall,Academic,118612
+Biological Science Building,Academic/Research,180694
+"Cunz, Dieter, Hall",Academic,68100
+Veterinary Medical Center,Veterinary,222496
+"Dulles, Foster Rhea, Hall",Academic,41284
+Independence Hall,Academic,15891
+University Hall,Academic,77845
+Ross Heart Hospital,Patient Care,306801
+"Rhodes, James A, Hall",Patient Care,507803
+"Celeste, Richard F, Laboratory of Chemistry",Lab,110310
+Brain and Spine Hospital,Patient Care,258797
+The Ohio State University Comprehensive Cancer Center - Arthur G. James Ca*,Patient Care/Research,1186252
+"Chilled Water Plant, East Regional",Facilities,34246
+"Chiller Plant, South Campus Central",Facilities,83056
+"Eighteenth Ave, 209 W",Academic,25034
+Lazenby Hall,Academic,67323
+Journalism Building,Academic,84561
+Eighteenth Avenue Library,Library,99181
+"Thompson, William Oxley, Memorial Library",Library,300459
+McPherson Chemical Laboratory,Academic/Research,117599
+"Smith, Alpheus, Laboratory",Academic/Research,218839
